@@ -1,1 +1,1 @@
-# harflar-sayt
+Harflar sanash sayti
